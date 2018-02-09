@@ -1,4 +1,4 @@
 info:
   profile: dev
-spring:
-  test: a
+server:
+  port: 2000
